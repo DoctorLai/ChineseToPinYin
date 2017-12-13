@@ -4,8 +4,9 @@ The API Converts Chinese Characters to Pinyin
 # Author 
 [@justyy](https://steemit.com/@justyy)
 
-# Chinese Post
-https://justyy.com/archives/3450
+# Posts
+- https://utopian.io/utopian-io/@justyy/the-api-converts-chinese-characters-to-pinyin
+- https://justyy.com/archives/3450
 
 # API Example
 ```
